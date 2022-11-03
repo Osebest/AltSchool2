@@ -1,0 +1,10 @@
+.link{
+  text-decoration: none;
+}
+.list-group-item:hover{
+  background-color: rgb(203, 243, 230);
+}
+
+.card{
+  width: 40%;
+}
